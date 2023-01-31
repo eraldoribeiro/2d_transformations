@@ -2,4 +2,5 @@
 Notes on 2-D transformations
 
 
- http://htmlpreview.github.io/?
+**View notes (html version):** 
+http://htmlpreview.github.io/?https://github.com/eraldoribeiro/2d_transformations/blob/main/html/2dtransformations.html
